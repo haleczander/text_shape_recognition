@@ -8,6 +8,7 @@
 - [ ] Déterminer ce qu'est la forme d'une lettre (sa hauteur, sa largeur, les vides ?)
 - [ ] Identifier la forme des lettres et de leurs variations (majuscules, forme différente selon l'époque)
 - [ ] Associer à chaque mot sa forme
+- [ ] Définir la structure pour stocker les mots à partir de leur forme (arbre décisionnel?)
 
 ### Identification des mots sur les actes et comparaison des formes
 
